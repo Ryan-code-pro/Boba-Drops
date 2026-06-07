@@ -1,0 +1,31 @@
+body{
+    background:rgb(0, 221, 255);
+}
+header{
+    background-color: beige;
+ ;
+}
+h1{
+    text-align:center;
+    
+}
+p{
+    font-style: oblique
+}
+h2{
+    text-align:center;
+    color: beige;
+    
+}
+h3{
+    color:beige;
+}
+table{
+    background-color: antiquewhite;
+}
+td{
+    font-style: oblique;
+}
+img{
+    align-items: center;
+}
